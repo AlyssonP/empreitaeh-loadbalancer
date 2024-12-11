@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64e84f9a.css",
+    "main.js": "/static/js/main.02cf9d1f.js",
+    "static/js/213.ece121b3.chunk.js": "/static/js/213.ece121b3.chunk.js",
+    "static/js/455.7899a72a.chunk.js": "/static/js/455.7899a72a.chunk.js",
+    "static/media/empreitaehBranco.png": "/static/media/empreitaehBranco.d70731220ba9cea15d17.png",
+    "static/media/empreitaeh.png": "/static/media/empreitaeh.bf057bfab9da7bd51247.png",
+    "static/media/banner.png": "/static/media/banner.80db2a895510dd2719aa.png",
+    "static/media/avatar4.png": "/static/media/avatar4.baa64144110028a0a9cf.png",
+    "static/media/favicon.png": "/static/media/favicon.455e63dd72c602b9bc75.png",
+    "static/media/logo.png": "/static/media/logo.455e63dd72c602b9bc75.png",
+    "static/media/Navbar.png": "/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "index.html": "/index.html",
+    "main.64e84f9a.css.map": "/static/css/main.64e84f9a.css.map",
+    "main.02cf9d1f.js.map": "/static/js/main.02cf9d1f.js.map",
+    "213.ece121b3.chunk.js.map": "/static/js/213.ece121b3.chunk.js.map",
+    "455.7899a72a.chunk.js.map": "/static/js/455.7899a72a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e84f9a.css",
+    "static/js/main.02cf9d1f.js"
+  ]
+}
