@@ -35,7 +35,7 @@ chmod +x up_nodes.sh
 O segundo passo, para finalizarmos, é configurar o container balanceador.
 
 ### 1. Criação do arquivo de configuração
-- Primeiro, para realizar a criação do container loadbalancer, precisamos montar o arquivo de configuração do servidor NGINX. O arquivo é o [default.com](./default.conf). Nesse arquivo, configuramos o balanceador de carga e definimos, com o atributo `upstream`, o grupo de servidores que o compõem, ou seja, os nodes iniciados na explicação acima:
+- Primeiro, para realizar a criação do container loadbalancer, precisamos montar o arquivo de configuração do servidor NGINX. O arquivo é o [default.conf](./default.conf). Nesse arquivo, configuramos o balanceador de carga e definimos, com o atributo `upstream`, o grupo de servidores que o compõem, ou seja, os nodes iniciados na explicação acima:
 ```
 upstream nodes {
     server 172.17.0.2;
